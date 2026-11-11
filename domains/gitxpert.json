@@ -1,0 +1,11 @@
+{
+  "description": "GitXpert agency website on Vercel",
+  "owner": {
+    "username": "MehranKhan38",
+    "email": "mehran00038@gmail.com"
+  },
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "proxied": false
+}
